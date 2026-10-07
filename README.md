@@ -1,26 +1,26 @@
-# Cloud Web Application Deployment
+# Cloud Demo
 
-## Project Title
-Deploy a Simple Web Application to a Cloud Platform
+## Project Description
 
-## Objective
-To deploy a simple web application on a cloud platform
-and make it accessible through the internet.
-
-## Cloud Platform
-Google Firebase Hosting
-
-## Technologies Used
-- HTML
-- Firebase Hosting
-- GitHub
-
-## Deployment
-The web application was deployed successfully on Firebase Hosting.
+This is a simple web application deployed using Firebase Hosting.
 
 ## Live Demo
-https://YOUR-PROJECT-ID.web.app
 
-## Result
-The application was successfully deployed and tested.
-The deployed webpage displays "Hello Cloud".
+https://cloud-demo-c71a7.web.app
+
+## Deployment Steps
+
+1. Create a Firebase project.
+2. Configure Firebase Hosting.
+3. Deploy the web application.
+
+## Commands Used
+
+```bash
+firebase init
+firebase deploy
+```
+
+## Security
+
+Firebase Hosting provides HTTPS for the deployed website.
